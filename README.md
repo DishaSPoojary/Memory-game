@@ -57,7 +57,7 @@ Memory-Game/
 1. Download or clone the repository.
 
 
-git clone https://github.com/your-username/memory-game.git
+git clone https://github.com/DishaSPoojary/Memory-game.git
 
 
 2. Open the project folder.
