@@ -30,13 +30,13 @@ A responsive and interactive Memory Card Matching Game built using **HTML, CSS, 
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/Home.png)
+![Home Screen](Home.png)
 
 ### Gameplay
 ![Gameplay](screenshots/gameplay.png)
 
 ### Winning Screen
-![Winning Screen](screenshots/winner.png)
+![Winning Screen](screenshots/winning.png)
 
 ---
 
